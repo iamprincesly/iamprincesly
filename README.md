@@ -1,4 +1,4 @@
-<h2> Hey there! <img src="https://raw.githubusercontent.com/iamprincesly/iamprincesly/master/gifs/wave.gif" width="30px"></h2>
+<h2> Hey there! <img src="https://raw.githubusercontent.com/iamprincesly/iamprincesly/master/wave.gif" width="30px"></h2>
 
 I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) fondly call [Prince Sly](https://twitter.com/iamprincesly/), a passionate backend developer skilled in php, node and typescript. I solve computer challanges in my free time.
 
