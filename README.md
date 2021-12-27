@@ -1,6 +1,6 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/iamprincesly/iamprincesly/master/wave.gif" width="30px"></h2>
 
-I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) friends call me [Prince Sly](https://twitter.com/iamprincesly/), a passionate backend developer skilled in php, node.js and typescript. I solve computer algorithm challange in my free time.
+I'm [Sylvanus Etim](https://twitter.com/iamprincesly/), friends call me [Prince Sly](https://twitter.com/iamprincesly/), a passionate backend developer skilled in php, node.js and typescript. I solve computer algorithm challange in my free time.
 
 <a target="_blank" href="https://linkedin.com/in/iamprincesly/">
 <img src="https://img.shields.io/badge/-iamprincesly-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iamprincesly/" alt="Linkedin Badge"></a>
@@ -15,8 +15,8 @@ I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) friends call me [Prince S
  
 **🔭 Currently I'm working on ...**
 
-- [Erroran](https://github.com/iamprincesly/erroran) - An error handling middleware I made for Express app.
-- [Talka](https://github.com/iamprincesly/talka-api) - A social app for content creator to earn per views made with node.js.
+- [Erroran](https://github.com/iamprincesly/erroran) - An error handling middleware I made for Express app. My goal is to make it one of the top express middleware that catches all programming errors in production server and throw a friendly error response to the client while storing error logs in a log file for the developer to check later.
+- [Talka](https://github.com/iamprincesly/talka-api) - A social app for content creator to earn per views made with node.js. My goal is put smile on content creators' faces by paying them per view. The project is open source and I welcome any contribution to make it great. 
 
  ---
 
