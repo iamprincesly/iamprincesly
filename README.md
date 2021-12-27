@@ -15,9 +15,8 @@ I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) fondly call [Prince Sly](
  
 **🔭 Currently I'm working on ...**
 
-[Erroran](https://github.com/iamprincesly/erroran) - An error handling middleware I made for Express app.
-
-[Talka](https://github.com/iamprincesly/talka-api) - A social app for content creator to earn per views mad with node.js.
+- [Erroran](https://github.com/iamprincesly/erroran) - An error handling middleware I made for Express app.
+- [Talka](https://github.com/iamprincesly/talka-api) - A social app for content creator to earn per views mad with node.js.
 
  ---
 
