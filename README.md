@@ -1,6 +1,6 @@
 <h2> Hey there! <img src="https://raw.githubusercontent.com/iamprincesly/iamprincesly/master/wave.gif" width="30px"></h2>
 
-I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) fondly call [Prince Sly](https://twitter.com/iamprincesly/), a passionate backend developer skilled in php, node and typescript. I solve computer challanges in my free time.
+I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) friends call me [Prince Sly](https://twitter.com/iamprincesly/), a passionate backend developer skilled in php, node.js and typescript. I solve computer algorithm challange in my free time.
 
 <a target="_blank" href="https://linkedin.com/in/iamprincesly/">
 <img src="https://img.shields.io/badge/-iamprincesly-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/iamprincesly/" alt="Linkedin Badge"></a>
@@ -16,13 +16,13 @@ I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) fondly call [Prince Sly](
 **🔭 Currently I'm working on ...**
 
 - [Erroran](https://github.com/iamprincesly/erroran) - An error handling middleware I made for Express app.
-- [Talka](https://github.com/iamprincesly/talka-api) - A social app for content creator to earn per views mad with node.js.
+- [Talka](https://github.com/iamprincesly/talka-api) - A social app for content creator to earn per views made with node.js.
 
  ---
 
 **🌱 I’m currently learning ...**
 - React/React Native
-- Microservices
+- Microservices Architecture 
 - Socket Programming
 
  ---
@@ -35,6 +35,7 @@ I'm [Sylvanus Etim](https://twitter.com/iamprincesly/) fondly call [Prince Sly](
  - Node.js
  - Express.js
  - MongoDB
+ - Laravel and its ecosystem
 
 ---
  
