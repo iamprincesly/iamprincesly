@@ -24,6 +24,7 @@ I'm [Sylvanus Etim](https://twitter.com/iamprincesly/), friends call me [Prince 
 - React/React Native
 - Microservices Architecture 
 - Socket Programming
+- Blockchain Programming (Web3)
 
  ---
 
